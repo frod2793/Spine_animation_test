@@ -1,0 +1,90 @@
+ef.png
+	size: 650, 516
+	filter: Linear, Linear
+	pma: true
+1
+	bounds: 620, 433, 29, 24
+	offsets: 1, 1, 31, 26
+	rotate: 90
+1 (1)
+	bounds: 620, 369, 17, 17
+	offsets: 1, 1, 19, 19
+1 (10)
+	bounds: 620, 351, 16, 16
+	offsets: 1, 1, 18, 18
+1 (11)
+	bounds: 516, 90, 70, 69
+1 (12)
+	bounds: 588, 56, 58, 33
+1 (13)
+	bounds: 589, 156, 40, 59
+	rotate: 90
+1 (14)
+	bounds: 620, 406, 22, 12
+1 (15)
+	bounds: 588, 91, 58, 63
+	offsets: 1, 1, 60, 65
+1 (16)
+	bounds: 516, 234, 83, 82
+	offsets: 1, 1, 85, 84
+1 (17)
+	bounds: 516, 161, 71, 71
+	offsets: 1, 1, 73, 73
+1 (18)
+	bounds: 516, 318, 92, 94
+	offsets: 1, 1, 94, 96
+	rotate: 90
+1 (19)
+	bounds: 620, 420, 23, 11
+1 (2)
+	bounds: 2, 2, 512, 512
+1 (20)
+	bounds: 620, 489, 25, 27
+	offsets: 1, 1, 27, 29
+	rotate: 90
+1 (21)
+	bounds: 516, 412, 102, 102
+1 (22)
+	bounds: 612, 293, 36, 46
+1 (23)
+	bounds: 620, 464, 23, 26
+	rotate: 90
+1 (24)
+	bounds: 568, 66, 15, 14
+	offsets: 1, 1, 17, 16
+1 (25)
+	bounds: 620, 388, 21, 16
+	offsets: 1, 1, 23, 18
+1 (26)
+	bounds: 639, 370, 16, 9
+	offsets: 1, 1, 18, 11
+	rotate: 90
+1 (27)
+	bounds: 601, 241, 50, 46
+	rotate: 90
+1 (28)
+	bounds: 612, 341, 69, 6
+	rotate: 90
+1 (29)
+	bounds: 516, 82, 69, 6
+1 (3)
+	bounds: 516, 4, 50, 50
+1 (4)
+	bounds: 568, 52, 12, 12
+	offsets: 1, 1, 14, 14
+1 (5)
+	bounds: 516, 68, 12, 12
+	offsets: 1, 1, 14, 14
+1 (6)
+	bounds: 530, 68, 12, 12
+	offsets: 1, 1, 14, 14
+1 (7)
+	bounds: 601, 22, 32, 33
+	offsets: 1, 1, 34, 35
+	rotate: 90
+1 (8)
+	bounds: 601, 198, 44, 41
+	offsets: 1, 1, 46, 43
+1 (9)
+	bounds: 568, 11, 31, 39
+	offsets: 1, 1, 33, 41
